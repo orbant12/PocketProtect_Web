@@ -37,7 +37,11 @@ return (
                     <h5>Topic Interesting Desc</h5>
                 </div>
                 <h3 className="s-m-desc">This is the process for making your<span className="word-high-primary"> Product</span> !</h3>
-                <div >
+                <div className="service-process-row">
+                    <div className="service-video">
+
+                    </div>
+
                     <ol class="timeline">
                         <li class="timeline-item">
                             <span class="timeline-item-icon | faded-icon">
@@ -87,7 +91,9 @@ return (
                             </div>
                         </li>
                     </ol>
+
                 </div>
+
             </div>
         </div>
 
