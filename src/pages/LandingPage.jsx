@@ -116,19 +116,23 @@ return (
                         <h4>Fixed Price Project</h4>
                         <SlArrowRightCircle color="white" />
                     </div>
-
-                    <div className="service-desc-box">
-                        <h4>30 $ / Hour </h4>
-                        <h4>Recommended:</h4>
-                        <ul>
-                            <li>For feature updates</li>
-                            <li>Implementing new ideas</li>
-                            <li>Less Planning - Quick & Effective</li>
-                        </ul>
-                    </div>
                 </div>
                 <div className="see-more-btn">
                     <h4>Interested</h4>
+                </div>
+            </div>
+            <div className="service-desc-cont">
+                <div className="service-dec-img">
+
+                </div>
+                <div className="service-desc-box">
+                    <h4>30 $ / Hour </h4>
+                    <h4>Recommended:</h4>
+                    <ul>
+                        <li>For feature updates</li>
+                        <li>Implementing new ideas</li>
+                        <li>Less Planning - Quick & Effective</li>
+                    </ul>
                 </div>
             </div>
         </div>
